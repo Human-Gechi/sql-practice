@@ -1,0 +1,1 @@
+This project is a basic python script where i utilised my knowledge on creating tables, defining functions and calling them. i also make good use of conditional statements. The sql.connector module was of great help in connecting to my database. This project is open to use by anyoneuse by anyone.
